@@ -1,7 +1,7 @@
 /**
  * Created by Zennard on 9/9/2015.
  */
-public class TestClass {
+public class PermutationMain {
     public static void main (String args[]) {
         printPermutation("","abcde");
     }
